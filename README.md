@@ -15,6 +15,17 @@ A multipage cinema review platform built with sematic HTML5 and custom CSS.
 - **Markup:** HTML5
 - **Styling:** Vanilla CSS3 (`back.css`, `backauthor.css`)
 
+## How to View
+### Live Demo
+The site is deployed via GitHub Pages:  
+**[View Movie Madness Live](https://TheDev2007.github.io/movie-madness/)**
+
+### 💻 Run Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/TheDev2007/movie-madness.git](https://github.com/TheDev2007/movie-madness.git)
+   cd movie-madness
+
 ## Future Improvements
 - [ ] Add dynamic search and genre filtering
 - [ ] Connect to the official IMDb API for live movie ratings and metadata
