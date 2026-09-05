@@ -12,5 +12,11 @@ A multipage cinema review platform built with sematic HTML5 and custom CSS.
 - In-page Navigation
 
 ## Tech Stack
-- **Markup:** HTML5[cite: 1, 2]
-- **Styling:** Vanilla CSS3 (`back.css`, `backauthor.css`)[cite: 1, 2]
+- **Markup:** HTML5
+- **Styling:** Vanilla CSS3 (`back.css`, `backauthor.css`)
+
+## Future Improvements
+- [ ] Add dynamic search and genre filtering
+- [ ] Connect to the official IMDb API for live movie ratings and metadata
+- [ ] Mobile-responsive layout overhaul
+- [ ] Dynamic user review submission form
