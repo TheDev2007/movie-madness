@@ -1,7 +1,7 @@
-# MOVIE-MADNESS 🎬
+# MOVIE-MADNESS
 A multipage cinema review platform built with sematic HTML5 and custom CSS.
 <br>
-> **Status:** 🚧 Work in Progress / Early Prototype  
+> **Status:** Work in Progress / Early Prototype  
 > This project is an ongoing exploration into semantic web design and cinema curation. Core features and styling are actively evolving.
 <br>
 
@@ -20,7 +20,7 @@ A multipage cinema review platform built with sematic HTML5 and custom CSS.
 The site is deployed via GitHub Pages:  
 **[View Movie Madness Live](https://TheDev2007.github.io/movie-madness/)**
 
-### 💻 Run Locally
+### Run Locally
 1. Clone the repository:
    ```bash
    git clone [https://github.com/TheDev2007/movie-madness.git](https://github.com/TheDev2007/movie-madness.git)
